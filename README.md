@@ -1,7 +1,7 @@
 # iframe_farolqr
 Me ajude colocando o iframe na pagina de vocês
 
-copie o codigo de index.php ou daqui
+copie o codigo do iframe de index.php ou daqui
 
 <div style="float: left; width: 230px; margin-right: 20px;">
     <iframe src="https://farolqr.com/banner_lateral/banner_lateral.php" 
